@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lembani/node-ci-cd.git"
+  },
+  "author": "Lembani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lembani/node-ci-cd/issues"
+  },
+  "homepage": "https://github.com/Lembani/node-ci-cd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
